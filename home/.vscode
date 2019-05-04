@@ -1,0 +1,60 @@
+{
+    "window.zoomLevel": -1,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 32,
+    "editor.fontSize": 20,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "search.location": "panel",
+    "terminal.integrated.fontSize": 18,
+    "editor.occurrencesHighlight": false,
+    "ruby.intellisense": "rubyLocate",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.detectIndentation": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.packageManager": "yarn",
+    "html.format.enable": true,
+    "html.format.preserveNewLines": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 3,
+    "editor.rulers": [
+      100
+    ],
+    "extensions.ignoreRecommendations": false,
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/.next": true,
+    },
+    "editor.snippetSuggestions": "top",
+    "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+    "prettier.eslintIntegration": true,
+    "prettier.jsxBracketSameLine": true,
+    "eslint.run": "onSave",
+    "workbench.activityBar.visible": true,
+    "workbench.settings.editor": "json",
+    "workbench.editor.enablePreview": true,
+    "[json]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // "editor.codeActionsOnSave": {
+    //   "source.organizeImports": true
+    // }
+  }
